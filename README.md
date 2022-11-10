@@ -273,8 +273,6 @@ height: 50px;
 </style> 
 
 
-<!DOCTYPE html>
-<html>
  
 <div class= "container">
  
@@ -371,7 +369,7 @@ height: 50px;
 </div> 
 </div> 
  
-</html>
+
  
  
  
